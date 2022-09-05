@@ -1,0 +1,9 @@
+{
+	"name": "comunas_sql_to_csv",
+	"properties": {
+		"folder": {
+			"name": "ingesta_origen_to_raw/comunas/get_historic"
+		},
+		"annotations": []
+	}
+}
