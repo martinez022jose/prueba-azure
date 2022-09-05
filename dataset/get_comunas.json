@@ -1,0 +1,25 @@
+{
+	"name": "get_comunas",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "sqlconnect",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [
+			{
+				"name": "comuna",
+				"type": "varchar"
+			},
+			{
+				"name": "barrio",
+				"type": "varchar"
+			}
+		],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "comunas"
+		}
+	}
+}
