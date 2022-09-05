@@ -1,0 +1,9 @@
+{
+	"name": "proyecto-martinez",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "225c433b-9ebb-4afb-a03b-2bc59f143b09",
+		"tenantId": "25533732-53bd-4c27-bbce-83177a6306af"
+	}
+}
